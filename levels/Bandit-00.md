@@ -9,17 +9,17 @@ dig bandit.labs.overthewire.org
 ssh -p 2220 bandit0@bandit.labs.overthewire.org
 pwd
 ls -l
-cat readme.txt
+cat readme
 ```
 
 ## Methodology
-1. Before connecting to the server, I used dig to look up the IP address associated with bandit.labs.overthewire.org.
+1. Before connecting to the server, I used `dig` to look up the IP address associated with `bandit.labs.overthewire.org`.
 2. Initially, I assumed that an IP address was required to establish an SSH connection.
 3. I learned that SSH also accepts hostnames and uses DNS to resolve them to IP addresses.
-4. I connected to the Bandit server using SSH on port 2220.
-5. After logging in, I used pwd to identify my current working directory.
-6. I used ls -l to list the directory and available files.
-7. I used cat to display the contents of the readme file.
+4. I connected to the Bandit server using SSH on port `2220`.
+5. After logging in, I used `pwd` to identify my current working directory.
+6. I used `ls -l` to list the files in the current directory and inspect their permissions, ownership, and file sizes.
+7. I used `cat` to display the contents of the readme file.
 
 
 ## Explanation
