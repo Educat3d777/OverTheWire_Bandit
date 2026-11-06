@@ -12,6 +12,7 @@ I am an aspiring penetration tester working towards my first role in offensive c
 |-------|-------|--------|
 | [00 → 01](levels/Bandit-00.md) | SSH, DNS lookup, basic file commands | Completed |
 | [01 → 02](levels/Bandit-01.md) | Special filenames, standard input, redirection | Completed |
+| [02 → 03](levels/Bandit-02.md) | Spaces and leading dashes in filenames | Completed |
 
 ## Writeup Format
 
