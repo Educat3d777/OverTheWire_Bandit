@@ -13,6 +13,8 @@ I am an aspiring penetration tester working towards my first role in offensive c
 | [00 → 01](levels/Bandit-00.md) | SSH, DNS lookup, basic file commands | Completed |
 | [01 → 02](levels/Bandit-01.md) | Special filenames, standard input, redirection | Completed |
 | [02 → 03](levels/Bandit-02.md) | Spaces and leading dashes in filenames | Completed |
+| [03 → 04](levels/Bandit-03.md) | Hidden files, `ls -a` vs `ls -A` | Completed |
+| [04 → 05](levels/Bandit-04.md) | Identifying file types, brace expansion | Completed |
 
 ## Writeup Format
 
