@@ -15,6 +15,7 @@ I am an aspiring penetration tester working towards my first role in offensive c
 | [02 → 03](levels/Bandit-02.md) | Spaces and leading dashes in filenames | Completed |
 | [03 → 04](levels/Bandit-03.md) | Hidden files, `ls -a` vs `ls -A` | Completed |
 | [04 → 05](levels/Bandit-04.md) | Identifying file types, brace expansion | Completed |
+| [05 → 06](levels/Bandit-05.md) | Searching with `find`, combining conditions, shell history expansion | Completed |
 
 ## Writeup Format
 
