@@ -4,7 +4,15 @@ My notes and writeups for the [OverTheWire Bandit](https://overthewire.org/warga
 
 ## About Me
 
-I am an aspiring penetration tester working towards my first role in offensive cybersecurity, with a long-term interest in red teaming. Alongside Bandit, I am following TryHackMe's certification pathway (SEC0 → SEC1 → PT1).
+I am an aspiring penetration tester working towards my first role in offensive cybersecurity, with a long-term interest in red teaming.
+
+## Certifications and Learning Path
+
+| Certification | Status |
+|---------------|--------|
+| TryHackMe SEC0 | Completed |
+| TryHackMe SEC1 | In progress |
+| TryHackMe PT1  | Planned |
 
 ## Progress
 
