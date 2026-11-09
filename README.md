@@ -37,6 +37,13 @@ Each writeup contains:
 - **Key Takeaways**: what I learned
 - **Result and References**
 
-## Disclaimer
 
-These writeups are written to document my own learning. I do not publish passwords or flags, in line with the OverTheWire community rules, so that the levels remain a challenge for others. If you are stuck, try the level yourself first and use these notes only as a hint.
+## Credits and Disclaimer
+
+These writeups document my personal learning experience while completing the OverTheWire Bandit wargame.
+
+All credit for the Bandit challenges and game infrastructure belongs to the [OverTheWire community](https://overthewire.org/).
+
+These walkthroughs contain spoilers and detailed solutions. I encourage readers to attempt each level independently before consulting my notes.
+
+No level passwords or other game credentials are published, in accordance with the [official OverTheWire rules](https://overthewire.org/rules/).
