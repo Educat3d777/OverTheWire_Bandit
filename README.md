@@ -25,6 +25,7 @@ I am an aspiring penetration tester working towards my first role in offensive c
 | [04 → 05](levels/Bandit-04.md) | Identifying file types, brace expansion | Completed |
 | [05 → 06](levels/Bandit-05.md) | Searching with `find`, combining conditions, shell history expansion | Completed |
 | [06 → 07](levels/Bandit-06.md) | Searching the whole system with `find`, filtering by owner, group and size | Completed |
+| [07 → 08](levels/Bandit-07.md) | Searching in files with `less` and `grep` | Completed |
 
 ## Writeup Format
 
